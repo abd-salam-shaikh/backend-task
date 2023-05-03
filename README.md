@@ -25,3 +25,8 @@ yarn prod
 
 # run TypeScript linter
 yarn lint
+
+## Postman Collection
+Inorder to dive right into action, use the [postman collection](backend-task.postman_collection.json)
+
+with the preconfigured requests.
