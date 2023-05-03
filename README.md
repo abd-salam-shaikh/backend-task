@@ -27,6 +27,4 @@ yarn prod
 yarn lint
 
 ## Postman Collection
-Inorder to dive right into action, use the [postman collection](backend-task.postman_collection.json)
-
-with the preconfigured requests.
+Inorder to dive right into action, use the postman-collection with the preconfigured requests.
